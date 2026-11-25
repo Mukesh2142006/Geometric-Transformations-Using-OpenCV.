@@ -66,7 +66,7 @@ Display all the transformed images using Matplotlib.
 
 ## PROGRAM
 
-**Developed By**
+## Developed By ##
 
 ## Name: Mukesh B
 ## Register No: 212223230128
